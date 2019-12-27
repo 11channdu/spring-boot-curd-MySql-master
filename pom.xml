@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.dugu.acc.dev</groupId>
-	<artifactId>EMS-API-SpringJPAData-Hibernate-MySQL</artifactId>
+	<artifactId>myapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>EMS-API-SpringJPAData-Hibernate-MySQL</name>
+	<name>myapp</name>
 	<description>Spring boot curd application using Spring JPA Data + Hibernate + MySQL</description>
 
 	<parent>
